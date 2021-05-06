@@ -1,0 +1,14 @@
+D:\ATM\ATM_BLL\obj\Debug\netcoreapp3.1\ATM_BLL.csprojAssemblyReference.cache
+D:\ATM\ATM_BLL\obj\Debug\netcoreapp3.1\ATM_BLL.AssemblyInfoInputs.cache
+D:\ATM\ATM_BLL\obj\Debug\netcoreapp3.1\ATM_BLL.AssemblyInfo.cs
+D:\ATM\ATM_BLL\obj\Debug\netcoreapp3.1\ATM_BLL.csproj.CoreCompileInputs.cache
+D:\ATM\ATM_BLL\bin\Debug\netcoreapp3.1\ATM_BLL.deps.json
+D:\ATM\ATM_BLL\bin\Debug\netcoreapp3.1\ATM_BLL.dll
+D:\ATM\ATM_BLL\bin\Debug\netcoreapp3.1\ATM_BLL.pdb
+D:\ATM\ATM_BLL\bin\Debug\netcoreapp3.1\ATM_BO.dll
+D:\ATM\ATM_BLL\bin\Debug\netcoreapp3.1\ATM_DAL.dll
+D:\ATM\ATM_BLL\bin\Debug\netcoreapp3.1\ATM_BO.pdb
+D:\ATM\ATM_BLL\bin\Debug\netcoreapp3.1\ATM_DAL.pdb
+D:\ATM\ATM_BLL\obj\Debug\netcoreapp3.1\ATM_BLL.csproj.CopyComplete
+D:\ATM\ATM_BLL\obj\Debug\netcoreapp3.1\ATM_BLL.dll
+D:\ATM\ATM_BLL\obj\Debug\netcoreapp3.1\ATM_BLL.pdb

@@ -1,0 +1,9 @@
+D:\ATM\ATM_BO\bin\Debug\netcoreapp3.1\ATM_BO.deps.json
+D:\ATM\ATM_BO\bin\Debug\netcoreapp3.1\ATM_BO.dll
+D:\ATM\ATM_BO\bin\Debug\netcoreapp3.1\ATM_BO.pdb
+D:\ATM\ATM_BO\obj\Debug\netcoreapp3.1\ATM_BO.csprojAssemblyReference.cache
+D:\ATM\ATM_BO\obj\Debug\netcoreapp3.1\ATM_BO.AssemblyInfoInputs.cache
+D:\ATM\ATM_BO\obj\Debug\netcoreapp3.1\ATM_BO.AssemblyInfo.cs
+D:\ATM\ATM_BO\obj\Debug\netcoreapp3.1\ATM_BO.csproj.CoreCompileInputs.cache
+D:\ATM\ATM_BO\obj\Debug\netcoreapp3.1\ATM_BO.dll
+D:\ATM\ATM_BO\obj\Debug\netcoreapp3.1\ATM_BO.pdb
